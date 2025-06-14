@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm so glad you're here! I'm Mohit Raj!
+
 Welcome to my little corner of GitHub!
 
-## 🌟 About Me
+I'm someone who’s endlessly curious about how things work — especially when it comes to people, products, and patterns hidden in data. I believe analytics is a blend of logic, creativity, and empathy — and I try to bring all three to the table.
+
 🎓 **B.Tech in Computer Science, Class of 2025**  
 🔍 **Aspiring Data & Business Analyst**  
 🌟 Passionate about uncovering insights, solving problems, and helping businesses grow with data
-
-I'm someone who’s endlessly curious about how things work — especially when it comes to people, products, and patterns hidden in data. I believe analytics is a blend of logic, creativity, and empathy — and I try to bring all three to the table.
 
 As a fresher stepping into the corporate world, I’m focused on building solutions that don’t just answer "what happened?" but help businesses understand the "why" and "what next?"
 
@@ -39,18 +39,20 @@ As a fresher stepping into the corporate world, I’m focused on building soluti
 
 ## 🧠 Beyond Work: What Shapes Me
 
-- 📸 **Photography Enthusiast:** I love capturing stories through my lens — the little details, the emotions, the unspoken moments.
-- 🍳 **Cooking Explorer:** From street-style snacks to homemade comfort food, cooking keeps me grounded and creative.
-- 🌱 **Gardening Buff:** There's something satisfying about nurturing life, one plant at a time.
-- 🐾 **Animal Lover:** I believe empathy makes us better — at home, at work, and in life.
+<table> <tr> <td width="50">📸</td> <td><strong>Photography Enthusiast</strong><br> Capturing stories through my lens — the little details, emotions, and quiet moments that often go unnoticed.</td> </tr> <tr> <td>🍳</td> <td><strong>Cooking Explorer</strong><br> From street-style snacks to cozy home meals — the kitchen is where I get creative and unwind.</td> </tr> <tr> <td>🌱</td> <td><strong>Gardening Buff</strong><br> Watching things grow, slowly and patiently, reminds me how real progress works — in life and learning.</td> </tr> <tr> <td>🐾</td> <td><strong>Animal Lover</strong><br> I believe empathy makes us better — at home, in the workplace, and everywhere in between.</td> </tr> </table>
 
 ---
 
 ## 📊 My Approach to Analytics
 
-I see data as more than numbers. It’s a narrative — and I enjoy turning that narrative into visuals and insights that businesses can act on.
+“Data is not just numbers — it’s a story.”
+ I treat analytics as a bridge between business questions and actionable answers. 
 
-Whether it’s a marketing campaign analysis or a website traffic dashboard, I aim to bring clarity, simplicity, and value to every project I touch.
+**My process involves:**
+
+🔍 **Identifying patterns in user behavior**  
+📈 **Creating intuitive visual dashboards**  
+🎯 **Providing clear, impactful insights**
 
 ---
 
