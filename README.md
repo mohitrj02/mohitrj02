@@ -52,7 +52,7 @@ As a fresher stepping into the corporate world, I’m focused on building soluti
 
 **My process involves:**
 
-🔍 **Identifying patterns in user behavior**  
+🔍 **Identifying patterns**  
 📈 **Creating intuitive visual dashboards**  
 🎯 **Providing clear, impactful insights**
 
